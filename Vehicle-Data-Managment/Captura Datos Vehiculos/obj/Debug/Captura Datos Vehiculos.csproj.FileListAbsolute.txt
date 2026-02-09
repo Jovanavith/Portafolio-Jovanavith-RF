@@ -1,0 +1,10 @@
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\bin\Debug\Captura Datos Vehiculos.exe.config
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\bin\Debug\Captura Datos Vehiculos.exe
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\bin\Debug\Captura Datos Vehiculos.pdb
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura Datos Vehiculos.csproj.AssemblyReference.cache
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura_Datos_Vehiculos.Form1.resources
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura_Datos_Vehiculos.Properties.Resources.resources
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura Datos Vehiculos.csproj.GenerateResource.cache
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura Datos Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura Datos Vehiculos.exe
+C:\Users\jovan\source\repos\Captura Datos Vehiculos\obj\Debug\Captura Datos Vehiculos.pdb
